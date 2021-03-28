@@ -46,3 +46,7 @@ Construir um modelo preditivo que irá maximizar os lucros da venda desse produt
 * AccepetedCmp4: 1, se o cliente aceitou a quarta campanha. Senão, 0;
 * AccepetedCmp5: 1, se o cliente aceitou a quinta campanha. Senão, 0;
 * Response(Target): 1, se o cliente aceitou a oferta na última campanha. Senão, 0;
+
+#### Relatório dos dados de treino - PowerBI:
+
+Link do Relatório: https://app.powerbi.com/view?r=eyJrIjoiNzlhNDFhMTctZmQ4My00OTQ4LWE2MmUtMGYzMzA1MDZkOWQxIiwidCI6IjZjMTE1Y2M0LWQxMDctNDYzNS04MWNkLTA2MTdlMDM0NDA3MyIsImMiOjR9
